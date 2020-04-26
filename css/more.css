@@ -1,0 +1,20 @@
+#mais-noticias {
+    background-color: #3281f0;
+    padding: 2% 10%;    
+}
+
+#mais-noticias h1 {
+    padding-bottom: 5%;    
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+}
+
+.banner-img {
+    padding: 2%;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}

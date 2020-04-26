@@ -7,18 +7,16 @@
 
 #cabecalho {    
     padding-top: 3%;
-    padding-bottom: 3%;
+    padding-bottom: 2%;
     width: 100%; 
-    text-align: center;   
-    
+    text-align: center;    
   }
 
 /* Navbar */
 
 ul {
     list-style-type: none;
-    margin-top: 2%;
-    padding: 0;
+    padding-top: 3%;    
 }
 
 li {
@@ -41,19 +39,19 @@ li a:hover {
 
 #home {
     padding: 5% 10%;
-    background-color: #1454ad;
+    background-color: #3281f0;
     
 }
 
 h1 {
-    color: white ;
+    color: rgba(255, 255, 255, 0.822) ;
     font-size: 3em;
     padding-top: 4%;           
     padding-bottom: 2%;
 }
 
 h2 {
-    color: white;
+    color: rgba(255, 255, 255, 0.637);
     font-weight: initial;    
     font-size: 1em;
 }
@@ -74,6 +72,7 @@ h2 {
 
 .card {  
   max-width: 350px;
+  max-height: 350px;
   margin: 26px;
   background: #3281f0;
   transition-property: transform;
