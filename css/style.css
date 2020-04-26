@@ -91,6 +91,7 @@ h2 {
 
 .card-media {
   width: 100%;
+  position: relative;
 }
 
 .card-media .img-card {
