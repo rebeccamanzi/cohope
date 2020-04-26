@@ -28,7 +28,17 @@
     margin: 0% 5%;
 }
 
+@media screen and (max-width: 890px) {
+    .flex-container {
+        flex-direction: column; /* texto abaixo da imagem */
+    }
 
+    .section-text {
+        margin-top: 26px; /* margem entre texto e imagem */
+        max-width: 100%; /* tirando a limitação de 50% */
+        line-height: 1.5em; /* maior separação entre as linhas */
+    }
+}
 
 
 
