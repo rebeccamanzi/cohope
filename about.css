@@ -1,0 +1,41 @@
+#about {
+    padding: 5% 10%;
+    background-color: #3281f0;
+}
+
+.section-title {    
+    color: white;
+    text-align: center;    
+}
+
+.section-text {
+    color: #ffffff8a;
+    max-width: 50%;    
+    float: right;
+    margin: 0% 5%;
+    font-size: 1.5em;
+}
+
+.section-img {
+    max-width: 30%;
+    border-radius: 50%;    
+    float: left;
+    margin: 0% 5%;
+}
+
+.flex-container {
+    display: flex;    
+    flex-flow: row wrap;
+    align-items: center;    
+    padding-bottom: 10%;
+}
+
+
+
+
+
+
+
+
+
+
