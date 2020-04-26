@@ -95,11 +95,10 @@ h2 {
 
 .card-media .img-card {
   width: 100%;
-  height: 250px;
+  max-height: 250px;
+  min-height: 250px;
   object-fit: cover;
-  object-position: center;
-  border-top-right-radius: 10%;
-  border-top-left-radius: 10%;
+  object-position: center;  
 }
 
 .card-body {
