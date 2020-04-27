@@ -102,6 +102,10 @@ h2 {
   object-position: center;  
 }
 
+.card-media iframe.img-card {
+  object-position: 0; /* eixo 0 quando for frame */
+}
+
 .card-body {
   padding: 0 5% 5%;
   display: flex;
